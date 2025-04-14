@@ -1,0 +1,6 @@
+jax
+ott-jax
+pandas
+
+# Pour le notebook refinement_demo
+torch
