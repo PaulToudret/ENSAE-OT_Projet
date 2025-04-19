@@ -1,6 +1,8 @@
-jax
-ott-jax
+jax==0.6.0
+jaxlib==0.6.0
+ott-jax==0.5.0
 pandas
+matplotlib
 
 # Pour le notebook refinement_demo
-torch
+#torch
