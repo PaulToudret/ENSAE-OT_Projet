@@ -4,5 +4,8 @@ ott-jax==0.5.0
 #pandas
 matplotlib
 
-# Pour le notebook refinement_demo
-#torch
+# For notebook
+ipykernel
+torch
+torchvision
+scikit-learn
