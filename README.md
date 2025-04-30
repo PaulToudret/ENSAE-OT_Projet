@@ -17,4 +17,7 @@ pdoc xxx
 ```
 
 ## Abstract of the problem
+We implemented a hierachical refinement algorithm base on the article in the introduction.
+This implementation is quite simple in terms of optimization but its goal is to explain the structure of such algorithm.
 
+You may find a notebook where we explain the advantages of this method and some of its subutilities.
