@@ -3,4 +3,9 @@ jaxlib==0.6.0
 ott-jax==0.5.0
 #pandas
 matplotlib
-tqdm
+
+# For notebook
+ipykernel
+torch
+torchvision
+scikit-learn
